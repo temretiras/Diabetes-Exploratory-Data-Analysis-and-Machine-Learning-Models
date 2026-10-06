@@ -2,6 +2,8 @@
 
 Exploratory Data Analysis and Machine Learning models to predict diabetes diagnoses using the Pima Indians Diabetes dataset from Kaggle.
 
+The full analysis is in [`pima-indians-diabetes-eda-classification.ipynb`](pima-indians-diabetes-eda-classification.ipynb).
+
 ## Dataset Overview
 The dataset contains medical diagnostic records for 768 individuals:
 * **Pregnancies**: Number of times pregnant.
